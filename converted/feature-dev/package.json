@@ -1,0 +1,17 @@
+{
+  "name": "feature-dev",
+  "version": "1.0.0",
+  "description": "Comprehensive feature development workflow management with branching strategies, code reviews, testing automation, and deployment coordination.",
+  "main": "index.js",
+  "type": "agent",
+  "opencode": {
+    "category": "development",
+    "tags": [
+      "development",
+      "workflow"
+    ],
+    "author": "Anthropic",
+    "repository": "https://github.com/anthropics/anthropic-agent-skills"
+  },
+  "files": {}
+}

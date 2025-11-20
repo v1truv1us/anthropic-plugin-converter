@@ -1,0 +1,19 @@
+{
+  "name": "security-guidance",
+  "version": "1.0.0",
+  "description": "Comprehensive security best practices, vulnerability scanning, and security guidance for development workflows with automated security checks and compliance monitoring.",
+  "main": "index.js",
+  "type": "agent",
+  "opencode": {
+    "category": "security",
+    "tags": [
+      "security",
+      "scanning",
+      "development",
+      "workflow"
+    ],
+    "author": "Anthropic",
+    "repository": "https://github.com/anthropics/anthropic-agent-skills"
+  },
+  "files": {}
+}

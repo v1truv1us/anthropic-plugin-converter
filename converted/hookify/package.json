@@ -1,0 +1,16 @@
+{
+  "name": "hookify",
+  "version": "1.0.0",
+  "description": "Hook creation and management system for React, Vue, and other frameworks with automated hook generation, testing, and documentation.",
+  "main": "index.js",
+  "type": "command",
+  "opencode": {
+    "category": "general",
+    "tags": [
+      "utility"
+    ],
+    "author": "Anthropic",
+    "repository": "https://github.com/anthropics/anthropic-agent-skills"
+  },
+  "files": {}
+}

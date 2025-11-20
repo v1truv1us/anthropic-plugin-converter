@@ -1,0 +1,19 @@
+{
+  "name": "frontend-design",
+  "version": "1.0.0",
+  "description": "Frontend design system utilities with component libraries, theme management, responsive design tools, and accessibility features.",
+  "main": "index.js",
+  "type": "command",
+  "opencode": {
+    "category": "frontend",
+    "tags": [
+      "frontend",
+      "ui",
+      "theme",
+      "styling"
+    ],
+    "author": "Anthropic",
+    "repository": "https://github.com/anthropics/anthropic-agent-skills"
+  },
+  "files": {}
+}

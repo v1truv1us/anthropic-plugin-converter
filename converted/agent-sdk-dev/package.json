@@ -1,0 +1,17 @@
+{
+  "name": "agent-sdk-dev",
+  "version": "1.0.0",
+  "description": "Agent SDK development utilities for creating, testing, and managing AI agents with comprehensive tooling and debugging capabilities.",
+  "main": "index.js",
+  "type": "agent",
+  "opencode": {
+    "category": "development",
+    "tags": [
+      "development",
+      "workflow"
+    ],
+    "author": "Anthropic",
+    "repository": "https://github.com/anthropics/anthropic-agent-skills"
+  },
+  "files": {}
+}

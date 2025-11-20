@@ -1,0 +1,17 @@
+{
+  "name": "code-review",
+  "version": "1.0.0",
+  "description": "Automated code review assistance with AI-powered analysis, security scanning, performance analysis, and best practices enforcement.",
+  "main": "index.js",
+  "type": "command",
+  "opencode": {
+    "category": "security",
+    "tags": [
+      "security",
+      "scanning"
+    ],
+    "author": "Anthropic",
+    "repository": "https://github.com/anthropics/anthropic-agent-skills"
+  },
+  "files": {}
+}
